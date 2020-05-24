@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/day03_mapreduce_wordcount.iml" filepath="$PROJECT_DIR$/day03_mapreduce_wordcount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day04_mapreduce_combiner/day04_mapreduce_combiner.iml" filepath="$PROJECT_DIR$/../day04_mapreduce_combiner/day04_mapreduce_combiner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04_mapreduce_combiner1/day04_mapreduce_combiner1.iml" filepath="$PROJECT_DIR$/day04_mapreduce_combiner1/day04_mapreduce_combiner1.iml" />
+    </modules>
+  </component>
+</project>
